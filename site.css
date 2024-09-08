@@ -1,1 +1,30 @@
+#container {
+	top-margin: "50px"; 
+	left-margin: "100px"; 
+	right-margin: "100px:;}
+h1 {
+	background-color: rgb(255, 51, 51);
+	background-color: #FF3333;
+	color: #FFFFFF;
+	border: 1px solid #D6A800;
+	padding: 10px;}
+h2 {
+	background-color: rgb(255, 51, 51);
+	background-color: #FF3333;
+	color: #FFFFFF;
+	border: 1px solid #D6A800;
+	padding: 10px;}
 
+h3 {
+	background-color: rgb(255, 51, 51);
+	background-color: #FF3333;
+	color: #FFFFFF;
+	border: 1px solid #D6A800;
+	padding: 10px;}
+
+h4 {
+	background-color: rgb(255, 51, 51);
+	background-color: #FF3333;
+	color: #FFFFFF;
+	border: 1px solid #D6A800;
+	padding: 10px;}
