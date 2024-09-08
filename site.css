@@ -26,3 +26,12 @@ h4 {
 	color: #FFFFFF;
 	border: 1px solid #D6A800;
 	padding: 10px;}
+a:link {
+	color: rgb(135,54,54);
+	color: #873636;
+	text-decoration: none;}
+a:hover {
+	color: rgb(215,209,82);
+	color: #D7D152;}
+a:visited {
+	color: black;}
