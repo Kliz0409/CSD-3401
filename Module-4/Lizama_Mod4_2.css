@@ -1,0 +1,30 @@
+
+h1, h3, figcaption {
+	text-align: center;}
+figcaption {
+	font-style: italic; 
+	font-size: 0.75em;}
+#image-gallery {
+	margin-top: 10%;
+	display: grid; 
+	grid-template-columns: auto auto auto auto auto auto;}
+	gap: 10px; 
+	border-width: 10px;
+	padding: 10px;}
+#image-gallery > div { 
+	text-align: center;
+	font-size: 30px;}
+.item1 {
+	border-width: 2px;
+	text-align: center; 
+	grid-column: 1 / span 2;}
+.item 2 {
+	border-width: 2px;
+	text-align: center;
+	grid-column: 4 / span 2}
+.item3 {
+	border-width: 2px;
+	text-align: center;
+	grid-column: 5 / span 2;}
+#landing-page {
+	float: right;}
