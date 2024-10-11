@@ -1,0 +1,10 @@
+img.About {
+	float: left;
+	margin-right: 10px;
+	width: 750px; 
+	height: 750px;}
+img.Intro {
+	float: right; 
+	margin-left: 10px;
+	width: 750px; 
+	height: 750px;}
